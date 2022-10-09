@@ -126,7 +126,6 @@ button2.addEventListener("click", function x() {
     }
 });
 
-
 const button3 = document.createElement("button");
 button3.innerHTML = "Scissors";
 document.body.appendChild(button3);
@@ -163,8 +162,3 @@ button3.addEventListener("click", function x() {
 const results = document.createElement("div");
 results.setAttribute("id", "results");
 document.body.appendChild(results);
-
-
-
-
-
